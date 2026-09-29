@@ -1,0 +1,23 @@
+[
+    {
+        "account_number": 1001,
+        "type": "DEPOSIT",
+        "amount": 50000.0,
+        "balance_after": 75000.0,
+        "date": "2026-09-27"
+    },
+    {
+        "account_number": 1001,
+        "type": "WITHDRAW",
+        "amount": 68549.0,
+        "balance_after": 6451.0,
+        "date": "2026-09-27"
+    },
+    {
+        "account_number": 1001,
+        "type": "DEPOSIT",
+        "amount": 89651.0,
+        "balance_after": 96102.0,
+        "date": "2026-09-27"
+    }
+]
